@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="background">#FF000000</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFFFE400</color>
+    <color name="pink_red">#F63E2A</color>
+    <color name="red">#FF0000</color>
+    <color name="bulegray">#f0f0f0</color>
+    <color name="gray">#828282</color>
+    <color name="graylight">#cccccc</color>
+    <color name="orange">#FF6600</color>
+    <color name="orange_light">#fdaa0b</color>
+    <color name="gold">#ffd700</color>
+    <color name="transparent">#00000000</color>
+    <color name="semitransparent">#90000000</color>
+    <color name="nearly_hard">#97000000</color>
+    <color name="font_focus">#D7F679</color>
+    <color name="gold_player">#F7F466</color>
+    <color name="whitetran">#87FFFFFF</color>
+    <color name="divider_line">#FF575757</color>
+    
+    <color name="listview_item_normal">#eef0ed</color>
+    <color name="listview_item_pressed">#d4d4d4</color>
+    
+    <color name="message_checked">#90918f</color>
+    <color name="message_no_check">#323232</color>
+    
+    <color name="stick_color_bg">#e2e2e2</color>
+
+</resources>
