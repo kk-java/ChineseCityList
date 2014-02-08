@@ -5,3 +5,6 @@
 显示效果：
 
 ![Screenshot](https://github.com/kk-java/ChineseCityList/raw/master/all_screenshot.jpg)
+
+联系邮箱：
+liucanwen517@gmail.com
