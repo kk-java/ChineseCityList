@@ -33,7 +33,7 @@ public class MainActivity extends Activity implements TextWatcher
 	private Object searchLock = new Object();
 	boolean inSearchMode = false;
 
-	private final static String TAG = "MainActivity";
+	private final static String TAG = "MainActivity2";
 
 	List<ContactItemInterface> contactList;
 	List<ContactItemInterface> filterList;
